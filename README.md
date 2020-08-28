@@ -2,4 +2,4 @@
 
 added one endpoint
 
-added another
+added another endpoint
